@@ -1,4 +1,5 @@
-A collection of awesome lists for hackers, pentesters & security researchers
+## Awesome-Hacking
+A collection of awesome lists for hackers, pentesters & security researchers. Click on the titles below to access it.
 
 ###[awesome-appsec](https://github.com/paragonie/awesome-appsec)
 A curated list of resources for learning about application security
