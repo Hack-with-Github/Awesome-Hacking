@@ -28,6 +28,9 @@ A curated list of awesome malware analysis tools and resources
 ###[awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 
+###[awesome-pentest](https://github.com/enaqx/awesome-pentest)
+A collection of awesome penetration testing resources, tools and other shiny things
+
 ###[awesome-php](https://github.com/ziadoz/awesome-php#security)
 Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.
 
