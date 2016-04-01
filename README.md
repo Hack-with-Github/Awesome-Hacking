@@ -84,4 +84,4 @@ Your [contributions](contributing.md) are always welcome!
 
 ###Contributions
 
-Please have a look at [contributing.md](contributing.md).
+Please have a look at [contributing.md](contributing.md)
