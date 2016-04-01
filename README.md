@@ -78,3 +78,10 @@ Your [contributions](contributing.md) are always welcome!
 
 ####[Awesome-Osx-and-Ios-Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 `OSX and iOS related security tools`
+
+
+---
+
+###Contributions
+
+Please have a look at [contributing.md](contributing.md).
