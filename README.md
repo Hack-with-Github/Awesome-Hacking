@@ -9,6 +9,7 @@ Your [contributions](contributing.md) are always welcome!
 ##Table of Contents
 
 - [Awesome-AppSec](#awesome-appsec)
+- [Awesome Bug Bounty](#awesome-bug-bounty)
 - [Awesome-CTF](#awesome-ctf)
 - [Awesome-Exploit-Development](#awesome-exploit-development)
 - [Awesome-Hacking-One](#awesome-hacking-one)
@@ -31,6 +32,9 @@ Your [contributions](contributing.md) are always welcome!
 ####[Awesome-AppSec](https://github.com/paragonie/awesome-appsec)
 `A curated list of resources for learning about application security`
 
+####[Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+`A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.`
+
 ####[Awesome-CTF](https://github.com/apsdehal/awesome-ctf)
 `A curated list of CTF frameworks, libraries, resources and softwares`
 
@@ -41,7 +45,7 @@ Your [contributions](contributing.md) are always welcome!
 `A curated list of awesome Hacking tutorials, tools and resources`
 
 ####[Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
-`an awesome list of honeypot resources`
+`An awesome list of honeypot resources`
 
 ####[Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
 `A curated list of tools for incident response`
