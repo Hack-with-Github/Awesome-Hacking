@@ -8,8 +8,8 @@ Your [contributions](contributing.md) are always welcome!
 
 ##Table of Contents
 
-- [Awesome-Appsec](#awesome-appsec)
-- [Awesome-Ctf](#awesome-ctf)
+- [Awesome-AppSec](#awesome-appsec)
+- [Awesome-CTF](#awesome-ctf)
 - [Awesome-Exploit-Development](#awesome-exploit-development)
 - [Awesome-Hacking-One](#awesome-hacking-one)
 - [Awesome-Honeypots](#awesome-honeypots)
@@ -18,20 +18,20 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome-Malware-Analysis](#awesome-malware-analysis)
 - [Awesome-Pcaptools](#awesome-pcaptools)
 - [Awesome-Pentest](#awesome-pentest)
-- [Awesome-Php-Security](#awesome-php-security)
+- [Awesome-PHP-Security](#awesome-php-security)
 - [Awesome-Sec-Talks](#awesome-sec-talks)
 - [Awesome-Security](#awesome-security)
 - [Awesome-Web-Hacking](#awesome-web-hacking)
 - [Awesome-Windows-Exploitation](#awesome-windows-exploitation)
 - [Awesome-Android-Security](#awesome-android-security)
-- [Awesome-Osx-and-Ios-Security](#awesome-osx-and-ios-security)
+- [Awesome-OSX-and-iOS-Security](#awesome-osx-and-ios-security)
 
 ---
 
-####[Awesome-Appsec](https://github.com/paragonie/awesome-appsec)
+####[Awesome-AppSec](https://github.com/paragonie/awesome-appsec)
 `A curated list of resources for learning about application security`
 
-####[Awesome-Ctf](https://github.com/apsdehal/awesome-ctf)
+####[Awesome-CTF](https://github.com/apsdehal/awesome-ctf)
 `A curated list of CTF frameworks, libraries, resources and softwares`
 
 ####[Awesome-Exploit-Development](https://github.com/FabioBaroni/awesome-exploit-development)
@@ -58,7 +58,7 @@ Your [contributions](contributing.md) are always welcome!
 ####[Awesome-Pentest](https://github.com/enaqx/awesome-pentest)
 `A collection of awesome penetration testing resources, tools and other shiny things`
 
-####[Awesome-Php-Security](https://github.com/ziadoz/awesome-php#security)
+####[Awesome-PHP-Security](https://github.com/ziadoz/awesome-php#security)
 `Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.`
 
 ####[Awesome-Sec-Talks](https://github.com/PaulSec/awesome-sec-talks)
@@ -76,7 +76,7 @@ Your [contributions](contributing.md) are always welcome!
 ####[Awesome-Android-Security](https://github.com/ashishb/android-security-awesome)
 `A collection of android security related resources`
 
-####[Awesome-Osx-and-Ios-Security](https://github.com/ashishb/osx-and-ios-security-awesome)
+####[Awesome-OSX-and-iOS-Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 `OSX and iOS related security tools`
 
 
