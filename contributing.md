@@ -1,6 +1,6 @@
 ##Contribution Guidelines
 
-`Please follow the below instrcutions for contributions.`
+`Please follow the below instructions for contributions.`
 
 This resource was made by developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
 
@@ -21,4 +21,5 @@ This resource was made by developers and hackers alike! We appreciate and recogn
 
 ####Contributors
 
+- [Chandrapal](https://github.com/Chan9390)
 - [Madhu Akula](https://www.github.com/madhuakula)
