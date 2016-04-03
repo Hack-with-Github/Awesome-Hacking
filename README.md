@@ -74,7 +74,7 @@ Your [contributions](contributing.md) are always welcome!
 ####[Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 `A list of web application security`
 
-####[Awesome-Windows-Exploitation](https://github.com/gavz/awesome-windows-exploitation)
+####[Awesome-Windows-Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 `A curated list of awesome Windows Exploitation resources, and shiny things.`
 
 ####[Awesome-Android-Security](https://github.com/ashishb/android-security-awesome)
