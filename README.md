@@ -24,6 +24,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome-Security](#awesome-security)
 - [Awesome-Web-Hacking](#awesome-web-hacking)
 - [Awesome-Windows-Exploitation](#awesome-windows-exploitation)
+- [Awesome-WiFi-Arsenal](#awesome-wifi-arsenal)
 - [Awesome-Android-Security](#awesome-android-security)
 - [Awesome-OSX-and-iOS-Security](#awesome-osx-and-ios-security)
 
@@ -76,6 +77,9 @@ Your [contributions](contributing.md) are always welcome!
 
 ####[Awesome-Windows-Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 `A curated list of awesome Windows Exploitation resources, and shiny things.`
+
+####[Awesome-WiFi-Arsenal](https://github.com/0x90/wifi-arsenal)
+`WiFi arsenal is a pack of various useful/useless tools for 802.11 hacking.`
 
 ####[Awesome-Android-Security](https://github.com/ashishb/android-security-awesome)
 `A collection of android security related resources`
