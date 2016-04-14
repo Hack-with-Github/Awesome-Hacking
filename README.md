@@ -15,12 +15,14 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome-Hacking-One](#awesome-hacking-one)
 - [Awesome-Honeypots](#awesome-honeypots)
 - [Awesome-Incident-Response](#awesome-incident-response)
+- [Awesome-InfoSec](#awesome-infosec)
 - [Awesome-IoT-Hacks](#awesome-iot-hacks)
 - [Awesome-Malware-Analysis](#awesome-malware-analysis)
 - [Awesome-Pcaptools](#awesome-pcaptools)
 - [Awesome-Pentest](#awesome-pentest)
 - [Awesome-PHP-Security](#awesome-php-security)
 - [Awesome-Sec-Talks](#awesome-sec-talks)
+- [Awesome-SecLists](#awesome-seclists)
 - [Awesome-Security](#awesome-security)
 - [Awesome-Web-Hacking](#awesome-web-hacking)
 - [Awesome-Windows-Exploitation](#awesome-windows-exploitation)
@@ -51,6 +53,9 @@ Your [contributions](contributing.md) are always welcome!
 ####[Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
 `A curated list of tools for incident response`
 
+####[Awesome-InfoSec](https://github.com/onlurking/awesome-infosec)
+`A curated list of awesome infosec courses and training resources.`
+
 ####[Awesome-IoT-Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 `A Collection of Hacks in IoT Space so that we can address them (hopefully).`
 
@@ -68,6 +73,9 @@ Your [contributions](contributing.md) are always welcome!
 
 ####[Awesome-Sec-Talks](https://github.com/PaulSec/awesome-sec-talks)
 `A collected list of awesome security talks`
+
+####[Awesome-SecLists](https://github.com/danielmiessler/SecLists)
+`SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments.`
 
 ####[Awesome-Security](https://github.com/sbilly/awesome-security)
 `A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.`
