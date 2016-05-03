@@ -34,6 +34,7 @@ Your [contributions](contributing.md) are always welcome!
 
 **Other Useful Repositories:**
 
+- [APT Notes](#apt-notes)
 - [Gray Hacker Resources](#gray-hacker-resources)
 
 ---
@@ -104,6 +105,9 @@ Your [contributions](contributing.md) are always welcome!
 `OSX and iOS related security tools`
 
 ### Other useful repositories
+
+#### [APT Notes](https://github.com/kbandla/APTnotes)
+`Various public documents, whitepapers and articles about APT campaigns`
 
 #### [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources)
 `Useful for CTFs, wargames, pentesting. Educational purposes.`
