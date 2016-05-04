@@ -1,4 +1,4 @@
-#Awesome Hacking
+# Awesome Hacking
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -6,7 +6,7 @@
 
 Your [contributions](contributing.md) are always welcome!
 
-##Table of Contents
+## Table of Contents
 
 **Awesome Repositories:**
 
@@ -36,6 +36,7 @@ Your [contributions](contributing.md) are always welcome!
 
 - [APT Notes](#apt-notes)
 - [Gray Hacker Resources](#gray-hacker-resources)
+- [Resource List](#resource-list)
 
 ---
 
@@ -111,6 +112,9 @@ Your [contributions](contributing.md) are always welcome!
 
 #### [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources)
 `Useful for CTFs, wargames, pentesting. Educational purposes.`
+
+#### [Resource List](https://github.com/FuzzySecurity/Resource-List)
+`A collection of useful GitHub projects loosely categorised.`
 
 ---
 
