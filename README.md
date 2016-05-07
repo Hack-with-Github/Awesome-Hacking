@@ -35,8 +35,13 @@ Your [contributions](contributing.md) are always welcome!
 **Other Useful Repositories:**
 
 - [APT Notes](#apt-notes)
+- [CTF Tool](#ctf-tool)
+- [Free Programming Books](#free-programming-books)
 - [Gray Hacker Resources](#gray-hacker-resources)
+- [Infosec Reference](#infosec-reference)
+- [Malware Scripts](#malware-scripts)
 - [Resource List](#resource-list)
+- [Security Cheatsheets](#security-cheatsheets)
 
 ---
 
@@ -110,11 +115,26 @@ Your [contributions](contributing.md) are always welcome!
 #### [APT Notes](https://github.com/kbandla/APTnotes)
 `Various public documents, whitepapers and articles about APT campaigns`
 
+#### [CTF Tool](https://github.com/SandySekharan/CTF-tool)
+`A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.`
+
+#### [Free Programming Books](https://github.com/vhf/free-programming-books)
+`Free programming books for developers`
+
 #### [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources)
 `Useful for CTFs, wargames, pentesting. Educational purposes.`
 
+#### [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
+`Information Security Reference That Doesn't Suck`
+
+#### [Malware Scripts](https://github.com/seifreed/malware-scripts)
+`Useful scripts related with malware`
+
 #### [Resource List](https://github.com/FuzzySecurity/Resource-List)
 `A collection of useful GitHub projects loosely categorised.`
+
+#### [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
+`A collection of cheatsheets for various infosec tools and topics.`
 
 ---
 
