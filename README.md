@@ -23,6 +23,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome Pcaptools](#awesome-pcaptools)
 - [Awesome Pentest](#awesome-pentest)
 - [Awesome PHP Security](#awesome-php-security)
+- [Awesome Reversing](#awesome-reversing)
 - [Awesome Sec Talks](#awesome-sec-talks)
 - [Awesome SecLists](#awesome-seclists)
 - [Awesome Security](#awesome-security)
@@ -85,6 +86,9 @@ Your [contributions](contributing.md) are always welcome!
 
 #### [Awesome PHP Security](https://github.com/ziadoz/awesome-php#security)
 `Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.`
+
+#### [Awesome Reversing](https://github.com/tylerhalfpop/awesome-reversing)
+`A curated list of awesome reverse engineering resources`
 
 #### [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)
 `A collected list of awesome security talks`
