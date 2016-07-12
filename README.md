@@ -14,6 +14,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome Bug Bounty](#awesome-bug-bounty)
 - [Awesome CTF](#awesome-ctf)
 - [Awesome Exploit Development](#awesome-exploit-development)
+- [Awesome Fuzzing](#awesome-fuzzing)
 - [Awesome Hacking One](#awesome-hacking-one)
 - [Awesome Honeypots](#awesome-honeypots)
 - [Awesome Incident Response](#awesome-incident-response)
@@ -59,6 +60,9 @@ Your [contributions](contributing.md) are always welcome!
 
 #### [Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
 `A curated list of resources (books, tutorials, courses, tools and vulnerable applications) for learning about Exploit Development`
+
+#### [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+`A curated list of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis`
 
 #### [Awesome Hacking One](https://github.com/carpedm20/awesome-hacking)
 `A curated list of awesome Hacking tutorials, tools and resources`
