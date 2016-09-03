@@ -13,6 +13,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome AppSec](#awesome-appsec)
 - [Awesome Bug Bounty](#awesome-bug-bounty)
 - [Awesome CTF](#awesome-ctf)
+- [Awesome DevSecOps](#awesome-devsecops)
 - [Awesome Exploit Development](#awesome-exploit-development)
 - [Awesome Fuzzing](#awesome-fuzzing)
 - [Awesome Hacking One](#awesome-hacking-one)
@@ -57,6 +58,9 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 
 #### [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
 A curated list of CTF frameworks, libraries, resources and softwares
+
+#### [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
+An authoritative list of awesome devsecops tools with the help from community experiments and contributions
 
 #### [Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
 A curated list of resources (books, tutorials, courses, tools and vulnerable applications) for learning about Exploit Development
