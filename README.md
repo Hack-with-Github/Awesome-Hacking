@@ -29,6 +29,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome Sec Talks](#awesome-sec-talks)
 - [Awesome SecLists](#awesome-seclists)
 - [Awesome Security](#awesome-security)
+- [Awesome Vehicle Security](#awesome-vehicle-security)
 - [Awesome Web Hacking](#awesome-web-hacking)
 - [Awesome Windows Exploitation](#awesome-windows-exploitation)
 - [Awesome WiFi Arsenal](#awesome-wifi-arsenal)
@@ -106,6 +107,9 @@ SecLists is the security tester's companion. It is a collection of multiple type
 
 #### [Awesome Security](https://github.com/sbilly/awesome-security)
 A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+
+#### [Awesome Vehicle Security](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+A curated list of resources for learning about vehicle security and car hacking
 
 #### [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 A list of web application security
