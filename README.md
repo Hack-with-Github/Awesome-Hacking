@@ -39,6 +39,7 @@ Your [contributions](contributing.md) are always welcome!
 **Other Useful Repositories:**
 
 - [APT Notes](#apt-notes)
+- [Bug Bounty Reference](#bug-bounty-reference)
 - [CTF Tool](#ctf-tool)
 - [Free Programming Books](#free-programming-books)
 - [Gray Hacker Resources](#gray-hacker-resources)
@@ -130,6 +131,9 @@ OSX and iOS related security tools
 
 #### [APT Notes](https://github.com/kbandla/APTnotes)
 Various public documents, whitepapers and articles about APT campaigns
+
+#### [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+A list of bug bounty write-up that is categorized by the bug nature
 
 #### [CTF Tool](https://github.com/SandySekharan/CTF-tool)
 A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
