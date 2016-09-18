@@ -28,6 +28,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome Sec Talks](#awesome-sec-talks)
 - [Awesome SecLists](#awesome-seclists)
 - [Awesome Security](#awesome-security)
+- [Awesome Threat Intelligence](#awesome-threat-intelligence)
 - [Awesome Web Hacking](#awesome-web-hacking)
 - [Awesome Windows Exploitation](#awesome-windows-exploitation)
 - [Awesome WiFi Arsenal](#awesome-wifi-arsenal)
@@ -102,6 +103,9 @@ Your [contributions](contributing.md) are always welcome!
 
 #### [Awesome Security](https://github.com/sbilly/awesome-security)
 `A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.`
+
+#### [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+`A curated list of Awesome Threat Intelligence resources`
 
 #### [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 `A list of web application security`
