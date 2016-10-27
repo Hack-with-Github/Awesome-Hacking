@@ -29,6 +29,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Awesome Sec Talks](#awesome-sec-talks)
 - [Awesome SecLists](#awesome-seclists)
 - [Awesome Security](#awesome-security)
+- [Awesome Static Analysis](#awesome-static-analysis)
 - [Awesome Threat Intelligence](#awesome-threat-intelligence)
 - [Awesome Vehicle Security](#awesome-vehicle-security)
 - [Awesome Web Hacking](#awesome-web-hacking)
@@ -109,6 +110,9 @@ SecLists is the security tester's companion. It is a collection of multiple type
 
 #### [Awesome Security](https://github.com/sbilly/awesome-security)
 A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+
+#### [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
+A curated list of static analysis tools, linters and code quality checkers for various programming languages
 
 #### [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 A curated list of Awesome Threat Intelligence resources
