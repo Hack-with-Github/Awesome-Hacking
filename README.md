@@ -39,6 +39,7 @@ Your [contributions](contributing.md) are always welcome!
 **Other Useful Repositories:**
 
 - [APT Notes](#apt-notes)
+- [Awesome Shell](#awesome-shell)
 - [Bug Bounty Reference](#bug-bounty-reference)
 - [CTF Tool](#ctf-tool)
 - [Free Programming Books](#free-programming-books)
@@ -137,6 +138,9 @@ OSX and iOS related security tools
 
 #### [APT Notes](https://github.com/kbandla/APTnotes)
 Various public documents, whitepapers and articles about APT campaigns
+
+#### [Awesome Shell](https://github.com/alebcay/awesome-shell)
+A curated list of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 
 #### [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
 A list of bug bounty write-up that is categorized by the bug nature
