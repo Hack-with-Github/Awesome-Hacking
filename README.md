@@ -1,4 +1,4 @@
-![Awesome Hacking](awesome_hacking.gif)
+![Awesome Hacking](awesome_hacking.jpg)
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
