@@ -1,25 +1,25 @@
-##Contribution Guidelines
+# Contribution Guidelines
 
-`Please follow the below instructions for contributions.`
+Please follow the instructions below to make a contribution.
 
-This resource was made by developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
+This resource was made by the developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
 
-##Table of Contents
+##Table of Content
 
 - [Adding to the list](#adding-to-the-list)
 - [To remove from the list](#to-remove-from-the-list)
 - [Contributors](#contributors)
 
-####Adding to the list
+##Adding to the List
 
-- Please add the content in `README.md` and make sure link in the TOC (Table Of Contents).
+- Please add the content to the `README.md` file and make sure to link it in the ToC (Table of Content).
 - Submit a pull request.
 
-####To remove from the list
+##Removing from the List
 
-- If you have any issues accessing them, please report us.
+- If you have any issues accessing any of the resources listed here, please let us know.
 
-####Contributors
+##Contributors
 
 - [Chandrapal](https://github.com/Chan9390)
 - [Madhu Akula](https://www.github.com/madhuakula)
