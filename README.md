@@ -46,6 +46,7 @@ Your [contributions](contributing.md) are always welcome!
 - [Gray Hacker Resources](#gray-hacker-resources)
 - [Infosec Reference](#infosec-reference)
 - [Malware Scripts](#malware-scripts)
+- [Pentest Wiki](#pentest-wiki)
 - [Resource List](#resource-list)
 - [Security Cheatsheets](#security-cheatsheets)
 
@@ -159,6 +160,9 @@ Information Security Reference That Doesn't Suck
 
 #### [Malware Scripts](https://github.com/seifreed/malware-scripts)
 Useful scripts related with malware
+
+#### [Pentest Wiki](https://github.com/nixawk/pentest-wiki)
+A free online security knowledge library for pentesters / researchers
 
 #### [Resource List](https://github.com/FuzzySecurity/Resource-List)
 A collection of useful GitHub projects loosely categorised.
