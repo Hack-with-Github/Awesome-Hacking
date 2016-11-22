@@ -41,17 +41,18 @@ Your [contributions](contributing.md) are always welcome!
 **Other Useful Repositories:**
 
 - [APT Notes](#apt-notes)
-- [Forensics](#forensics)
-- [Shell](#shell)
 - [Bug Bounty Reference](#bug-bounty-reference)
 - [CTF Tool](#ctf-tool)
+- [Forensics](#forensics)
 - [Free Programming Books](#free-programming-books)
 - [Gray Hacker Resources](#gray-hacker-resources)
 - [Infosec Reference](#infosec-reference)
+- [IOC](#ioc)
 - [Malware Scripts](#malware-scripts)
 - [Pentest Wiki](#pentest-wiki)
 - [Resource List](#resource-list)
 - [Security Cheatsheets](#security-cheatsheets)
+- [Shell](#shell)
 
 ---
 
@@ -143,17 +144,14 @@ OSX and iOS related security tools
 #### [APT Notes](https://github.com/kbandla/APTnotes)
 Various public documents, whitepapers and articles about APT campaigns
 
-#### [Forensics](https://github.com/Cugu/awesome-forensics)
-A curated list of awesome forensic analysis tools and resources
-
-#### [Shell](https://github.com/alebcay/awesome-shell)
-A curated list of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
-
 #### [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
 A list of bug bounty write-up that is categorized by the bug nature
 
 #### [CTF Tool](https://github.com/SandySekharan/CTF-tool)
 A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
+
+#### [Forensics](https://github.com/Cugu/awesome-forensics)
+A curated list of awesome forensic analysis tools and resources
 
 #### [Free Programming Books](https://github.com/vhf/free-programming-books)
 Free programming books for developers
@@ -163,6 +161,9 @@ Useful for CTFs, wargames, pentesting. Educational purposes.
 
 #### [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
 Information Security Reference That Doesn't Suck
+
+#### [IOC](https://github.com/sroberts/awesome-iocs)
+A collection of sources of indicators of compromise
 
 #### [Malware Scripts](https://github.com/seifreed/malware-scripts)
 Useful scripts related with malware
@@ -175,6 +176,9 @@ A collection of useful GitHub projects loosely categorised.
 
 #### [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 A collection of cheatsheets for various infosec tools and topics.
+
+#### [Shell](https://github.com/alebcay/awesome-shell)
+A curated list of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 
 ---
 
