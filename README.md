@@ -43,17 +43,18 @@ Repository | Description
 Repository | Description
 ---- | ----
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
-[Forensics](https://github.com/Cugu/awesome-forensics) 								| A curated list of awesome forensic analysis tools and resources
-[Shell](https://github.com/alebcay/awesome-shell) 									| A curated list of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| A list of bug bounty write-up that is categorized by the bug nature
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares
+[Forensics](https://github.com/Cugu/awesome-forensics) 								| A curated list of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/vhf/free-programming-books) 			| Free programming books for developers
 [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting. Educational purposes
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
+[IOC](https://github.com/sroberts/awesome-iocs) 									| A collection of sources of indicators of compromise
 [Malware Scripts](https://github.com/seifreed/malware-scripts) 						| Useful scripts related with malware
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| A collection of useful GitHub projects loosely categorised.
 [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| A collection of cheatsheets for various infosec tools and topics
+[Shell](https://github.com/alebcay/awesome-shell) 									| A curated list of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 
 ---
 
