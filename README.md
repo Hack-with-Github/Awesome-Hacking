@@ -52,7 +52,8 @@ Repository | Description
 [IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
 [Malware Scripts](https://github.com/seifreed/malware-scripts) 						| Useful scripts related with malware
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
-[Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised.
+[Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
+[Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
 [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| Collection of cheatsheets for various infosec tools and topics
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 
