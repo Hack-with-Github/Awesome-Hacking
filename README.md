@@ -54,6 +54,7 @@ Repository | Description
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
 [IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
+[Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
 [Malware Scripts](https://github.com/seifreed/malware-scripts) 						| Useful scripts related with malware
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
