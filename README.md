@@ -13,6 +13,7 @@ Repository | Description
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+[Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| Penetration Testing / Security Cheatsheets
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
@@ -28,7 +29,7 @@ Repository | Description
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
 [Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
-[Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
+
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Reversing](https://github.com/tylerhalfpop/awesome-reversing) 						| List of awesome reverse engineering resources
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
@@ -57,6 +58,7 @@ Repository | Description
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
 [Malware Scripts](https://github.com/seifreed/malware-scripts) 						| Useful scripts related with malware
+[Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
 [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
