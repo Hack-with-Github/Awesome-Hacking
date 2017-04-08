@@ -19,7 +19,7 @@ Repository | Description
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
 [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking One](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
+[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
 [Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
 [Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
