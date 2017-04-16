@@ -48,6 +48,7 @@ Repository | Description
 ---- | ----
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
+[Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/vhf/free-programming-books) 			| Free programming books for developers
