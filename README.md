@@ -14,7 +14,6 @@ Repository | Description
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| Penetration Testing / Security Cheatsheets
-[Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
@@ -49,6 +48,7 @@ Repository | Description
 ---- | ----
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
+[Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/vhf/free-programming-books) 			| Free programming books for developers
