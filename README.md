@@ -50,6 +50,7 @@ Repository | Description
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
+[CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/vhf/free-programming-books) 			| Free programming books for developers
 [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
