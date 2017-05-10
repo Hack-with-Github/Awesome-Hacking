@@ -71,6 +71,7 @@ Repository | Description
 [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| Collection of cheatsheets for various infosec tools and topics
 [Security List](https://github.com/zbetcheckin/Security_list)						 | Great security list for fun and profit
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
+[ThreatHunter-Playbook](https://github.com/VVard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
 ### Contributions
 
