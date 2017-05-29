@@ -35,6 +35,7 @@ Repository | Description
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
+[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
 [Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
 [Vehicle Security](https://github.com/jaredmichaelsmith/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
