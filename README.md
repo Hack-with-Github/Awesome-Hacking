@@ -39,6 +39,7 @@ Repository | Description
 [Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
 [Vehicle Security](https://github.com/jaredmichaelsmith/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
+[Vulnerability Research](https://github.com/serhii-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
 [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) 		| List of awesome Windows Exploitation resources and shiny things
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
