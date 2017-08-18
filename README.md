@@ -1,5 +1,10 @@
 ![Awesome Hacking](awesome_hacking.jpg)
+ 
+# Version
 
+* [Chinese](https://github.com/Hack-with-Github/README_CH.MD)
+* [English](https://github.com/Hack-with-Github/README.md)
+ 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
