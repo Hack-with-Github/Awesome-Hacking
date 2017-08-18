@@ -1,8 +1,10 @@
 ![Awesome Hacking](awesome_hacking.jpg)
  
 # Version
+
 [Chinese](https://github.com/Hack-with-Github/README_CH.MD)
-[English](https://github.com/Hack-with-Github/README_CH.MD）
+ 
+<br/>[English](https://github.com/Hack-with-Github/README_CH.MD）
  
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
