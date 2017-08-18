@@ -1,4 +1,10 @@
 
+# Version
+
+
+* [Chinese](https://github.com/Hack-with-Github/README_CH.MD)
+* [English](https://github.com/Hack-with-Github/README.md)
+
 </center>
 <p>最近，在reddit安全板块和Twitter上有个GitHub项目很火，叫“<a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome Hacking</a>”。</p><p></p><center><img src="http://img.blog.csdn.net/20170815141522522" alt="图片描述" title=""> <br>
 <em>“Awesome Hacking”在reddit上有超过四百个赞，但管理员后来认为不适合该板块（Awesome类项目没有新的内容），给了“reject”。</em></center><p></p><p>这个项目由Twitter账号<a href="https://twitter.com/HackwithGithub">@HackwithGithub</a>维护，混Twitter的安全爱好者应该了解，在@HackwithGithub 上能关注到许多最新安全开源项目、黑客技巧。</p><p>“Awesome Hacking”是一个黑客技术清单项目，里边索引了数十个不同方向的技能图谱。大家都知道，GitHub上这类项目非常容易集星（Star），“Awesome Hacking”刚刚突破一万星（这一轮推荐里大概涨了两千星），已经进入安全领域最受关注的GitHub项目阵营。</p><p></p><center><img src="http://img.blog.csdn.net/20170815141625230" alt="图片描述" title=""></center><p></p><p>如果你需要一些安全入门引导，“Awesome Hacking”无疑是最佳选择之一。在这里，你能找到Android、iOS、OS X等不同平台，IoT、工控、车辆等行业设施设备，模拟攻击环境、蜜罐、Fuzing、Exploit开发等攻击技能…涉及到黑客技能的方方面面。</p><p>下边就来看看吧：</p><h3>Awesome Hacking系列</h3><ul>
