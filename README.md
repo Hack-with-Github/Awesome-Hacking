@@ -49,6 +49,8 @@ Repository | Description
 
 Repository | Description
 ---- | ----
+[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Curated list of awesome adversarial machine learning resources
+[AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
