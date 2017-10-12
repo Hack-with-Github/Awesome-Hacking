@@ -87,6 +87,12 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
+### Online Communities 
+
+Name | Source | Description
+---------------|--------|-------------
+[Hack+](https://t.me/hacking_group_channel) | Telegram channel | A smart bot network that fetches best information security content from all over the world. 
+
 ### Contributions
 
 Please have a look at [contributing.md](contributing.md)
