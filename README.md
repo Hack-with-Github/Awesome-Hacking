@@ -73,6 +73,12 @@ Repository | Description
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [ThreatHunter-Playbook](https://github.com/VVard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
+### Online Communities 
+
+Name | Source | Description
+---------------|--------|-------------
+[Hack+](https://t.me/hacking_group_channel) | Telegram channel | A smart bot network that fetches best information security content from all over the world. 
+
 ### Contributions
 
 Please have a look at [contributing.md](contributing.md)
