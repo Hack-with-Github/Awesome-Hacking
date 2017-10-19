@@ -44,6 +44,7 @@ Repository | Description
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
 [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) 		| List of awesome Windows Exploitation resources and shiny things
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
+[YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 
 ### Other useful repositories
 
