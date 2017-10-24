@@ -12,6 +12,8 @@ Repository | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
+[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | A curated list of awesome malware analysis tools and resources 
+[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better! 
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| Penetration Testing / Security Cheatsheets
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
@@ -25,6 +27,7 @@ Repository | Description
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
+[List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks) | A curated list of awesome Security talks
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
