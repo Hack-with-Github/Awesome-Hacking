@@ -25,7 +25,8 @@ Repository | Description
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
-[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 		| [Mobile App Pentest - Android and iOS](https://github.com/kyawthiha7/Awesome-Mobile-App-Pentest)		| List of awesome malware analysis tools and resources
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)  		| List of awesome malware analysis tools and resources
+[Mobile App Pentest - Android and iOS](https://github.com/kyawthiha7/Awesome-Mobile-App-Pentest) | List of awesome mobile application penetration testing resources 
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
