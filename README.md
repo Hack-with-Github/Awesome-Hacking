@@ -84,6 +84,12 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 
+### Other useful resources 
+
+Resource | Description
+---- | ----
+[OWSAP (Open Web Application Security Project)](https://www.owasp.org) | An open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
+
 ### Need more ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
