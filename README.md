@@ -6,7 +6,7 @@
 
 Your [contributions](contributing.md) are always welcome !
 
-### Awesome Repositories
+## Awesome Repositories
 
 Repository | Description
 ---- | ----
@@ -46,7 +46,7 @@ Repository | Description
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 
-### Other useful repositories
+## Other useful repositories
 
 Repository | Description
 ---- | ----
@@ -84,12 +84,12 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 
-### Need more ?
+## Need more ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
-### Contributions
+## Contributions
 
 Please have a look at [contributing.md](contributing.md)
