@@ -83,6 +83,7 @@ Repository | Description
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
+[Forensics, Malware and Vulnerability Assessments](https://github.com/jekil/awesome-hacking) | Curated list of Forensics and malware analysis materials and resources
 
 ## Need more ?
 
