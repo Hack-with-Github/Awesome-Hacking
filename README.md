@@ -46,7 +46,7 @@ Repository | Description
 [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) 		| List of awesome Windows Exploitation resources and shiny things
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
-[Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
+[Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
 ## Other useful repositories
 
