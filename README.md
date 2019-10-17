@@ -66,17 +66,20 @@ Repository | Description
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
 [Gray Hacker Resources](https://github.com/bt3gl/Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
 [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
+[Hacky one-off scripts](https://github.com/tomnomnom/hacks) | A collection of hacks and one-off scripts 
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
 [IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
 [Lockpicking](https://github.com/meitar/awesome-lockpicking) | Resources relating to the security and compromise of locks, safes, and keys.
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
+[OWASP Cheatsheet](https://github.com/damoklov/CheatSheetSeries) | A concise collection of high value information on specific application security topics
 [Payloads](https://github.com/foospidy/payloads)  | Collection of web attack payloads
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)   | List of useful payloads and bypass for Web Application Security and Pentest/CTF
 [Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Wordlists sorted by probability originally created for password generation and testing
+[Probe HTTP and HTTPS Servers](https://github.com/tomnomnom/httprobe) | Take a list of domains and probe for working HTTP and HTTPS servers
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
 [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
 [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)  | Collection of Radio Frequency Communication Protocol Hacktools
