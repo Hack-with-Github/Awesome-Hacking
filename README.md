@@ -33,6 +33,7 @@ Repository | Description
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
 [Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
 [Pentest-Bookmarkz](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz)           | A collection of useful links for Pentesters
+[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)      | A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
 [Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
