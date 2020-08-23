@@ -4,7 +4,7 @@
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
-Your [contributions](contributing.md) are always welcome !
+Your [contributions](contributing.md) are always welcome!
 
 ## Awesome Repositories
 
