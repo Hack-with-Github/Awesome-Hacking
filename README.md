@@ -27,6 +27,7 @@ Repository | Description
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
+[Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)  | Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) 				| List of Awesome Mainframe Hacking/Pentesting Resources
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
