@@ -50,7 +50,7 @@ Repository | Description
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
-
+[Checklist Security](https://github.com/shieldfy/API-Security-Checklist) | Checklist for API Security
 ## Other useful repositories
 
 Repository | Description
