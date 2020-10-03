@@ -80,6 +80,7 @@ Repository | Description
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Wordlists sorted by probability originally created for password generation and testing
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
+[Resourceify](https://github.com/Data-Science-Community-SRM/Resourceify) 					| A curated list of everything in the field of Data Science and Machine Learning.
 [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
 [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)  | Collection of Radio Frequency Communication Protocol Hacktools
 [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| Collection of cheatsheets for various infosec tools and topics
