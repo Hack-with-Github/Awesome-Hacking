@@ -42,6 +42,7 @@ Repository | Description
 [Serverless Security](https://github.com/puresec/awesome-serverless-security/) 			| Collection of Serverless security related resources
 [Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
 [Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
+[The Art of Hacking Series](https://github.com/The-Art-of-Hacking/h4cker)    | List of resources  includes thousands of cybersecurity-related references and resources
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
