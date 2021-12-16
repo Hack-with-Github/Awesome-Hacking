@@ -14,7 +14,7 @@ Repository | Description
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
+[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
@@ -37,6 +37,7 @@ Repository | Description
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
 [Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
+[Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity) 							| List of awesome reinforcement learning for security resources
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
