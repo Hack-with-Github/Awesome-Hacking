@@ -53,7 +53,7 @@ Repository | Description
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
-## Other useful repositories
+## Other Useful Repositories
 
 Repository | Description
 ---- | ----
@@ -92,7 +92,7 @@ Repository | Description
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 
-## Need more ?
+## Need More ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
