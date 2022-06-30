@@ -6,6 +6,9 @@
 
 Your [contributions](contributing.md) are always welcome !
 
+## Being internet user everyone should know some attacks and some basic [tips to prevent ourself from hackers](https://github.com/shri142/Prevent_Yourself_From_Hackers).
+
+
 ## Awesome Repositories
 
 Repository | Description
