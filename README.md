@@ -59,7 +59,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
-[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Curated list of awesome adversarial machine learning resources
+[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Curated list of awesome adversarial machine learning resources//Dream On Dream On Dream On Dream On
 [AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
@@ -103,3 +103,4 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+/Kill @s (Type EnderDragon)
