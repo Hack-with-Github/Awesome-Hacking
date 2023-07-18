@@ -2,11 +2,11 @@
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
 
-**A collection of awesome lists for hackers, pentesters & security researchers.**
+**Level Up Your [Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) : Discover Incredible Lists for Pentesters and Hackers**
 
-Your [contributions](contributing.md) are always welcome !
+**Your [Contributing](contributing.md) are highly valued and always welcome**
 
-## Awesome Repositories
+## Discover Awesome Repositories
 
 Repository | Description
 ---- | ----
@@ -55,7 +55,7 @@ Repository | Description
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
-## Other useful repositories
+## Explore More Useful Repositories
 
 Repository | Description
 ---- | ----
@@ -94,12 +94,14 @@ Repository | Description
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 
-## Need more ?
 
-Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
- - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
+### Make sure you don't miss the latest updates about Security-related [GitHub](https://github.com/Hack-with-Github/Awesome-Hacking) repositories.
 
-## Contributions
+### Just follow **[Hack with GitHub](https://github.com/Hack-with-Github/Awesome-Hacking)** on your social media platform.
 
-Please have a look at [contributing.md](contributing.md)
+ - Twitter : [HackwithGitHub](https://twitter.com/HackwithGithub)
+ - Facebook : [HackwithGitHub](https://www.facebook.com/HackwithGithub)
+
+### Contributions
+
+  - Please have a look at [**CONTRIBUTERS**](contributing.md)
