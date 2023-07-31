@@ -28,6 +28,7 @@ Repository | Description
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
+[iSpy](https://github.com/Dashbloxx/iSpy)            | A fast & multithreaded IP (IPv4) scanner written fully in C. Good for finding random cameras, hidden websites, and Minecraft servers!
 [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) 				| List of Awesome Mainframe Hacking/Pentesting Resources
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
@@ -76,7 +77,6 @@ Repository | Description
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
 [IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
-[iSpy](https://github.com/Dashbloxx/iSpy) | A fast & multithreaded IP (IPv4) scanner written fully in C. Good for finding random cameras, hidden websites, and Minecraft servers!
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
 [Lockpicking](https://github.com/meitar/awesome-lockpicking) | Resources relating to the security and compromise of locks, safes, and keys.
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
