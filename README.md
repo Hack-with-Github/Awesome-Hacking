@@ -64,6 +64,7 @@ Repository | Description
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
+[Cognito Scanner](https://github.com/padok-team/cognito-scanner) | CLI tool to pentest Cognito AWS instance
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
