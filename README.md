@@ -17,6 +17,7 @@ Repository | Description
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
 [Celluar Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)    | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
+[CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
 [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
