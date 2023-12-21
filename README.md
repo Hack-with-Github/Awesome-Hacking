@@ -91,6 +91,7 @@ Repository | Description
 [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| Collection of cheatsheets for various infosec tools and topics
 [Security List](https://github.com/zbetcheckin/Security_list)						 | Great security list for fun and profit
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
+[The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia) | The open-source encyclopaedia of cybersecurity
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
