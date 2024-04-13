@@ -51,6 +51,7 @@ Repository | Description
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
+[Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) | A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 [Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | List of Awesome Advanced Windows Exploitation References
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
