@@ -13,6 +13,7 @@ Repository | Description
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
+[BadUSB](https://github.com/MarkCyber/BadUSB)	| A collection of BadUSB scripts to exfiltrate data, simulate ransomware, and more.
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
 [Celluar Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)    | This is a list of hacking research in the 3G/4G/5G cellular security space. 
