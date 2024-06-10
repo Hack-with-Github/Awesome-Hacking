@@ -67,6 +67,7 @@ Repository | Description
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
+[CryptoPkg](https://github.com/programmingAthlete/crypto_pkg) | Cryptanalysis package containing attacks to modifierd version of some known symmetric ciphers and correlation power analysis attack on full AES
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
 [CVE PoC updated daily](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
