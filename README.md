@@ -14,7 +14,8 @@ Repository | Description
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
+[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
+[Celluar Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)    | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
@@ -50,6 +51,7 @@ Repository | Description
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
+[Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) | A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 [Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | List of Awesome Advanced Windows Exploitation References
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
