@@ -70,6 +70,7 @@ Repository | Description
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
 [CVE PoC updated daily](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
+[CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
 [Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
