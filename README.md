@@ -88,6 +88,7 @@ Repository | Description
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)   | List of useful payloads and bypass for Web Application Security and Pentest/CTF
 [Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
+[Portscanner Online](https://portscanner.online/)  | Scan and Detect Open Ports Online
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Wordlists sorted by probability originally created for password generation and testing
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
 [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
@@ -97,6 +98,7 @@ Repository | Description
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
+[vmbox-online](https://github.com/vmbox-online/vmbox.json) | JSON file for display Virtual Machines on the site vmbox.online
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 
 ## Need More ?
