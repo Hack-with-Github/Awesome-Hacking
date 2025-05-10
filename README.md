@@ -33,6 +33,7 @@ Repository | Description
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
+[OT_ICS_ressource_list](https://github.com/biero-el-corridor/OT_ICS_ressource_list) | Collaborative cybersecurity related Operational Technologies (OT) and Industrial Controls Systems (ICS) Resource List.
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
 [Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
