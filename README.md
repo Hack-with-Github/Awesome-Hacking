@@ -31,6 +31,7 @@ Repository | Description
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
 [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) 				| List of Awesome Mainframe Hacking/Pentesting Resources
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
+[Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security/) | Curated list of tools, security incidents and other resources around Node.js secuirty
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
