@@ -57,6 +57,7 @@ Repository | Description
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 [Cybersources](https://github.com/brunoooost/cybersources) | A collection of all types of tools and resources for cybersecurity.
+[Ultimate Cybersecurity Resources](https://github.com/DhanushNehru/Ultimate-Cybersecurity-Resources) | A collection of cybersecurity resources for hackers, pentesters and security researchers
 
 ## Other Useful Repositories
 
