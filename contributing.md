@@ -21,9 +21,10 @@ This resource was made by the developers and hackers alike! We appreciate and re
 
 ## Contributors
 
+- [Dhanush Nehru](https://github.com/DhanushNehru)
 - [Chandrapal](https://github.com/Chan9390)
 - [Madhu Akula](https://www.github.com/madhuakula)
-- [Derick Thomson](https://www.facebook.com/derick.thomson) (Image)
+- [Derick Thomson](https://www.facebook.com/derick.thomson)
 - [Aleksandar Todorović](https://github.com/aleksandar-todorovic)
 - [Sobolev Nikita](https://github.com/sobolevn)
 - [Serhii Pronin](https://github.com/re-pronin)
