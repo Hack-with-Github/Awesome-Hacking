@@ -58,6 +58,7 @@ Repository | Description
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 [Cybersources](https://github.com/brunoooost/cybersources) | A collection of all types of tools and resources for cybersecurity.
 
+[NullSec Stealth](https://github.com/bad-antics/nullsec-stealth) | Evasion and anti-detection toolkit for red team operations
 ## Other Useful Repositories
 
 Repository | Description
