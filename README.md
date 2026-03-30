@@ -1,4 +1,4 @@
-![Awesome Hacking](awesome_hacking.jpg)
+*![Awesome Hacking](awesome_hacking.jpg)
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
 
@@ -24,6 +24,7 @@ Repository | Description
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
 [Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
 [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
+[Hacking Training](https://github.com/Smithech/awesome-hacking-training)     | List of security and hacking training platforms and resources.
 [Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
 [Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
