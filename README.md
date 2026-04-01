@@ -12,6 +12,7 @@ Repository | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
+[API Security](https://github.com/arainho/awesome-api-security)              | API Security Resources List
 [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security)          | A curated list of web3 Security materials and resources
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
