@@ -6,6 +6,7 @@
 
 Your [contributions](contributing.md) are always welcome !
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including penetration testing, OSINT, vulnerability scanning, and automated security agents. MIT licensed.
 ## Awesome Repositories
 
 Repository | Description
