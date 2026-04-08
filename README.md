@@ -66,6 +66,7 @@ Repository | Description
 [AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
+[AutoWIFI](https://github.com/momenbasel/AutoWIFI) | Wireless pentest framework automating WEP/WPA/WPA2/WPS attacks with multiple cracking backends (aircrack-ng, hashcat, John)
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
@@ -81,6 +82,7 @@ Repository | Description
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
 [IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
+[keyFinder](https://github.com/momenbasel/keyFinder) | Chrome extension that passively scans web pages for exposed API keys, tokens, and secrets using 80+ regex patterns and Shannon entropy
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
 [Lockpicking](https://github.com/meitar/awesome-lockpicking) | Resources relating to the security and compromise of locks, safes, and keys.
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
