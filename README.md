@@ -73,6 +73,7 @@ Repository | Description
 [CVE PoC updated daily](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
 [CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
 [Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+[ENNA](https://www.en-na.com) | Searchable index of 325+ open-source OSINT & security tools with live GitHub stats, cheat sheets, starter kits, and community reviews
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
 [Gray Hacker Resources](https://github.com/bt3gl/Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
