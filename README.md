@@ -55,14 +55,12 @@ Repository | Description
 [Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | List of Awesome Advanced Windows Exploitation References
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
-[Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 [Cybersources](https://github.com/brunoooost/cybersources) | A collection of all types of tools and resources for cybersecurity.
 
 ## Other Useful Repositories
 
 Repository | Description
 ---- | ----
-[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Curated list of awesome adversarial machine learning resources
 [AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
@@ -75,7 +73,6 @@ Repository | Description
 [Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
-[Gray Hacker Resources](https://github.com/bt3gl/Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
 [GTFOBins](https://gtfobins.github.io)	| A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
@@ -86,7 +83,6 @@ Repository | Description
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
 [Payloads](https://github.com/foospidy/payloads)  | Collection of web attack payloads
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)   | List of useful payloads and bypass for Web Application Security and Pentest/CTF
-[Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Wordlists sorted by probability originally created for password generation and testing
 [Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
