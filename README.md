@@ -33,6 +33,7 @@ Repository | Description
 [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) | List of Awesome Mainframe Hacking/Pentesting Resources
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | List of awesome malware analysis tools and resources
 [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence) | Techniques adversaries use to maintain system access across restarts
+[Node.js Security](https://github.com/lirantal/awesome-nodejs-security) | Curated list of tools, security incidents and other resources around Node.js security
 [OSINT](https://github.com/jivoi/awesome-osint) | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) | OSX and iOS related security tools
 [Password Cracking](https://github.com/n0kovo/awesome-password-cracking) | Tools and resources for recovering passwords
