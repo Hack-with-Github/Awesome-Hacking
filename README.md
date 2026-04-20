@@ -19,7 +19,7 @@ Repository | Description
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university) | Free educational resources that focus on learning cybersecurity by doing
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[Cybersources](https://github.com/brunoooost/cybersources) | A collection of all types of tools and resources for cybersecurity
+[Cybersources](https://github.com/bst04/CyberSources) | A collection of all types of tools and resources for cybersecurity
 [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering) | Resources for designing, building, and operating detective cybersecurity controls
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
 [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
@@ -39,16 +39,16 @@ Repository | Description
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
 [Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
-[Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection) | Prompt injection vulnerabilities targeting AI and LLM systems
+[Prompt Injection](https://github.com/Joe-B-Security/awesome-prompt-injection) | Prompt injection vulnerabilities targeting AI and LLM systems
 [Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking) | Covers VoIP, WebRTC and VoLTE security related topics
 [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) | Cutting-edge open-source security tools (OST) for red teamers and threat hunters
-[Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity) 							| List of awesome reinforcement learning for security resources
+[Reinforcement Learning for Cyber Security](https://github.com/Kim-Hammar/awesome-rl-for-cybersecurity) 							| List of awesome reinforcement learning for security resources
 [Reversing](https://github.com/HACKE-RC/awesome-reversing) 						| Collection of resources to learn Reverse Engineering from start
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
-[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
-[Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
+[Social Engineering](https://github.com/giuliacassara/awesome-social-engineering) | List of awesome social engineering resources
+[Static Analysis](https://github.com/analysis-tools-dev/static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
 [The Art of Hacking Series](https://github.com/The-Art-of-Hacking/h4cker)    | List of resources  includes thousands of cybersecurity-related references and resources
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
@@ -60,7 +60,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
-[AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
+[AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
@@ -70,7 +70,7 @@ Repository | Description
 [CVE PoC](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
 [CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
 [Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
-[Executable Packing](https://github.com/dhondta/awesome-executable-packing) | Resources about executable packing and unpacking
+[Executable Packing](https://github.com/packing-box/awesome-executable-packing) | Resources about executable packing and unpacking
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
 [GTFOBins](https://gtfobins.github.io)	| A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
@@ -90,7 +90,7 @@ Repository | Description
 [Security Cheatsheets](https://github.com/OWASP/CheatSheetSeries) 				| OWASP Cheat Sheet Series for application security
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [Suricata](https://github.com/satta/awesome-suricata) | Suricata IDS/IPS and network security monitoring resources
-[ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
+[ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
