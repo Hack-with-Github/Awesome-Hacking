@@ -105,3 +105,4 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
