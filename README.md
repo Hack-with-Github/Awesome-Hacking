@@ -22,6 +22,7 @@ Repository | Description
 [Cybersources](https://github.com/bst04/CyberSources) | A collection of all types of tools and resources for cybersecurity
 [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering) | Resources for designing, building, and operating detective cybersecurity controls
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) | List of awesome DevSecOps tools with the help from community experiments and contributions
+[Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking) | List of Drone hacking tools and resources
 [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) | List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
 [Hacking](https://github.com/carpedm20/awesome-hacking) | List of awesome Hacking tutorials, tools and resources
