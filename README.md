@@ -77,6 +77,7 @@ Repository | Description
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Free programming books for developers
 [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
+[How to Start Pentesting — Pentest Mindmap Guide](https://pentestmindmap.com/guide-start-pentesting) | Complete beginner roadmap: 90-day learning plan, methodology, tools, certifications and common mistakes to avoid
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started) | A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) | Information Security Reference That Doesn't Suck
 [IOC](https://github.com/sroberts/awesome-iocs) | Collection of sources of indicators of compromise
