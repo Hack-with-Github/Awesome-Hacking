@@ -8,6 +8,16 @@ Your [contributions](contributing.md) are always welcome !
 
 ## Awesome Repositories
 
+## OpenClaw Monitor
+
+> Real-time AI Agent Monitoring Dashboard for OpenClaw
+
+**GitHub:** [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 Repository | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) | Collection of Android security related resources
