@@ -63,6 +63,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
+[AI Code Trust Validator](https://github.com/rudra496/ai-code-trust-validator) | Security-first tool that analyzes AI-generated code for vulnerabilities, backdoors and trustworthiness
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns
