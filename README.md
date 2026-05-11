@@ -106,3 +106,6 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) — Proof-of-Antiquity blockchain with tenure-based mining rewards and decentralized bounties.
