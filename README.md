@@ -31,6 +31,7 @@ Repository | Description
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) | List of awesome infosec courses and training resources
 [IoT and Hardware Security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) | Collection of tools, books, resources and software about IoT and hardware security
+[Killchain](https://github.com/Vyntral/awesome-killchain) | A workflow-driven security toolkit organized by MITRE ATT&CK tactic × target with live health signals and auto-generated per-target cheatsheets
 [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) | List of Awesome Mainframe Hacking/Pentesting Resources
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | List of awesome malware analysis tools and resources
 [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence) | Techniques adversaries use to maintain system access across restarts
