@@ -21,12 +21,12 @@ This resource was made by the developers and hackers alike! We appreciate and re
 
 ## Contributors
 
-- [Chandrapal](https://github.com/Chan9390)
+- [Chandrapal](https://github.com/0xbadshah)
 - [Madhu Akula](https://www.github.com/madhuakula)
 - [Derick Thomson](https://www.facebook.com/derick.thomson) (Image)
 - [Aleksandar Todorović](https://github.com/aleksandar-todorovic)
 - [Sobolev Nikita](https://github.com/sobolevn)
-- [Serhii Pronin](https://github.com/re-pronin)
+- Serhii Pronin
 - [ReadmeCritic](https://github.com/ReadmeCritic)
 - [Yakup Ateş](https://github.com/y-ates)
 - [Alan Chang](https://github.com/tcode2k16)
