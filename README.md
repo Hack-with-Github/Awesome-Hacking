@@ -13,6 +13,7 @@ Repository | Description
 [Android Security](https://github.com/ashishb/android-security-awesome) | Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec) | Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) | List of resources which help during asset discovery phase of a security assessment engagement
+[Automated Vulnerability Analysis](https://github.com/terranovafr/awesome-ml-for-cve-analysis) | Collection of machine learning resources for automated CVE analysis 
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) | List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks) | Offensive research of CI/CD systems and deployment processes
