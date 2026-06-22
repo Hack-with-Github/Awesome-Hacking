@@ -66,6 +66,16 @@ Repository | Description
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns
+[AWESOME-CHEATSHEETS](https://github.com/LeCoupa/awesome-cheatsheets) | Useful cheatsheets for many languages and tools
+[AWESOME-DOCKER](https://github.com/veggiemonk/awesome-docker) | Docker and container resources, images, and tools
+[AWESOME-GO](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software
+[AWESOME-LISTS](https://github.com/sindresorhus/awesome) | Curated list of awesome lists
+[AWESOME-MACHINE-LEARNING](https://github.com/josephmisiti/awesome-machine-learning) | Machine learning resources and libraries
+[AWESOME-NODEJS](https://github.com/sindresorhus/awesome-nodejs) | Curated list of Node.js packages and resources
+[AWESOME-PYTHON](https://github.com/vinta/awesome-python) | Python frameworks, libraries, software and resources
+[AWESOME-REACT](https://github.com/enaqx/awesome-react) | React libraries, tools and resources
+[AWESOME-SELFHOSTED](https://github.com/awesome-selfhosted/awesome-selfhosted) | List of self-hosted software and services
+[AWESOME-VSCODE](https://github.com/viatsko/awesome-vscode) | Visual Studio Code extensions and resources
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | List of bug bounty write-up that is categorized by the bug nature
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) | Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
@@ -87,8 +97,8 @@ Repository | Description
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) | A free online security knowledge library for pentesters / researchers
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists) | Wordlists sorted by probability originally created for password generation and testing
 [Red Team Physical Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) | Curated list of tools for physical security, red teaming, and tactical covert entry
-[Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list) | List of Reverse Engineering articles, books, and papers
 [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) | Collection of Radio Frequency Communication Protocol Hacktools
+[Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list) | List of Reverse Engineering articles, books, and papers
 [Security Cheatsheets](https://github.com/OWASP/CheatSheetSeries) | OWASP Cheat Sheet Series for application security
 [Shell](https://github.com/alebcay/awesome-shell) | List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [Suricata](https://github.com/satta/awesome-suricata) | Suricata IDS/IPS and network security monitoring resources
