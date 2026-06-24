@@ -66,6 +66,7 @@ Repository | Description
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns
+[ARS3NAL](https://github.com/inflictx/Arsenal) | Offline-first, searchable arsenal for pentest & bug bounty: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | List of bug bounty write-up that is categorized by the bug nature
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) | Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
