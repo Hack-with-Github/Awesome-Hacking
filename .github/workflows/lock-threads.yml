@@ -17,8 +17,10 @@ jobs:
   action:
     runs-on: ubuntu-latest
     steps:
+      # Prefer a dedicated repository secret LOCK_THREADS_TOKEN (set to a PAT ≤ 100 chars).
+      # Fallback to the built-in token if LOCK_THREADS_TOKEN is not set.
       - uses: dessant/lock-threads@v5
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.LOCK_THREADS_TOKEN || secrets.GITHUB_TOKEN }}
           issue-inactive-days: '7'
           pr-inactive-days: '7'
