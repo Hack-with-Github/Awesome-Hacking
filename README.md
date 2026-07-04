@@ -79,6 +79,7 @@ Repository | Description
 [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started) | A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) | Information Security Reference That Doesn't Suck
+[Impacket](https://github.com/fortra/impacket) | Collection of Python classes for working with network protocols, used for network protocol manipulation in offensive security engagements
 [IOC](https://github.com/sroberts/awesome-iocs) | Collection of sources of indicators of compromise
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Curated list of tools and resources related to the use of machine learning for cyber security
