@@ -60,6 +60,9 @@ Repository | Description
 
 ## Other Useful Repositories
 
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 Repository | Description
 ---- | ----
 [AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
