@@ -85,6 +85,7 @@ Repository | Description
 [Payloads](https://github.com/foospidy/payloads) | Collection of web attack payloads
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | List of useful payloads and bypass for Web Application Security and Pentest/CTF
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) | A free online security knowledge library for pentesters / researchers
+[PoCcraft](https://poccraft.com) | Write professional pentest and bug bounty reports in minutes — CVSS scoring, AI-drafted findings, and one-click export to PDF or Markdown
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists) | Wordlists sorted by probability originally created for password generation and testing
 [Red Team Physical Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) | Curated list of tools for physical security, red teaming, and tactical covert entry
 [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list) | List of Reverse Engineering articles, books, and papers
