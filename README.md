@@ -14,6 +14,7 @@ Repository | Description
 [AppSec](https://github.com/paragonie/awesome-appsec) | Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) | List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+[Bug Bounty Roadmap](https://bugbountyroadmap.netlify.app/) | Interactive roadmap to learn bug bounty from zero, mapping every topic, book, tool and platform in one visual graph
 [Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks) | Offensive research of CI/CD systems and deployment processes
 [CTF](https://github.com/apsdehal/awesome-ctf) | List of CTF frameworks, libraries, resources and softwares
