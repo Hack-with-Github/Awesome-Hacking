@@ -95,6 +95,7 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
+[VulnHawk](https://github.com/momenbasel/vulnhawk) | AI-powered static code security scanner that detects business logic flaws, missing authorization checks, and IDOR vulnerabilities that traditional SAST tools miss. Supports Python, JavaScript, TypeScript, and Go with CLI, GitHub Action, and SARIF output.
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 
 ## Need More ?
