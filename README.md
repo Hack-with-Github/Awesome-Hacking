@@ -66,6 +66,7 @@ Repository | Description
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns
+[AutoWIFI](https://github.com/momenbasel/AutoWIFI) | Wireless pentest framework automating WEP/WPA/WPA2/WPS attacks with multiple cracking backends (aircrack-ng, hashcat, John the Ripper)
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | List of bug bounty write-up that is categorized by the bug nature
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) | Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
