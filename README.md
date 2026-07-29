@@ -62,7 +62,9 @@ Repository | Description
 
 Repository | Description
 ---- | ----
-[AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
+|[AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources |
+|[agent-fixer-stage](https://github.com/amurlaniakea/agent-fixer-stage) | Sub-millisecond terminal-stage output verification middleware against indirect prompt injections and data exfiltration from compromised MCP tools |
+|[mcp-core-defense](https://github.com/amurlaniakea/mcp-core-defense) | Client-side security gatekeeper auditing MCP `tools/list` metadata against Tool Description Poisoning (OWASP MCP03:2025) |
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns
