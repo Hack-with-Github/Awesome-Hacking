@@ -96,6 +96,8 @@ Repository | Description
 [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
+[Z-Jail](https://github.com/Division-36/Z-Jail) | Lightweight multi-layer Linux sandbox (namespaces, pivot_root, seccomp-BPF) for secure execution of untrusted code
+
 
 ## Need More ?
 
