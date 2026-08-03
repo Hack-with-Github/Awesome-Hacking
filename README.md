@@ -75,7 +75,7 @@ Repository | Description
 [Executable Packing](https://github.com/packing-box/awesome-executable-packing) | Resources about executable packing and unpacking
 [Forensics](https://github.com/Cugu/awesome-forensics) | List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Free programming books for developers
-[GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
+[GTFOBins](https://gtfobins.org/) | A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started) | A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) | Information Security Reference That Doesn't Suck
