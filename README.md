@@ -16,6 +16,7 @@ Repository | Description
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) | List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks) | Offensive research of CI/CD systems and deployment processes
+[Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) | Curated list of cloud security tools, resources and research
 [CTF](https://github.com/apsdehal/awesome-ctf) | List of CTF frameworks, libraries, resources and softwares
 [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university) | Free educational resources that focus on learning cybersecurity by doing
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
@@ -49,11 +50,13 @@ Repository | Description
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) | List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) | Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) | Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
+[Security Hardening](https://github.com/decalage2/awesome-security-hardening) | Collection of security hardening guides, tools and resources
 [Social Engineering](https://github.com/giuliacassara/awesome-social-engineering) | List of awesome social engineering resources
 [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) | List of static analysis tools, linters and code quality checkers for various programming languages
 [The Art of Hacking Series](https://github.com/The-Art-of-Hacking/h4cker) | List of resources  includes thousands of cybersecurity-related references and resources
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) | List of Awesome Threat Intelligence resources
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) | List of resources for learning about vehicle security and car hacking
+[WAF](https://github.com/0xInfection/Awesome-WAF) | Everything about Web Application Firewalls (WAFs): bypasses, tools and research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) | List of web application security
 [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) | A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 [YARA](https://github.com/InQuest/awesome-yara) | List of awesome YARA rules, tools, and people
