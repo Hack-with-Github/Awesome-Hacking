@@ -36,6 +36,7 @@ Repository | Description
 [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence) | Techniques adversaries use to maintain system access across restarts
 [Node.js Security](https://github.com/lirantal/awesome-nodejs-security) | Curated list of tools, security incidents and other resources around Node.js security
 [OSINT](https://github.com/jivoi/awesome-osint) | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
+[OSINT MCP Servers](https://github.com/soxoj/awesome-osint-mcp-servers) | Curated list of MCP servers for OSINT investigations
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) | OSX and iOS related security tools
 [Password Cracking](https://github.com/n0kovo/awesome-password-cracking) | Tools and resources for recovering passwords
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) | Collection of tools developed by researchers in the Computer Science area to process network traces
