@@ -62,6 +62,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
+[AI Agent Incidents](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Sourced database of real-world AI agent security incidents, from prompt injection to agent-framework CVEs
 [AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
