@@ -62,7 +62,6 @@ Repository | Description
 
 Repository | Description
 ---- | ----
-[AI Agent Incidents](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Sourced database of real-world AI agent security incidents, from prompt injection to agent-framework CVEs
 [AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
@@ -83,6 +82,7 @@ Repository | Description
 [IOC](https://github.com/sroberts/awesome-iocs) | Collection of sources of indicators of compromise
 [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
 [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Curated list of tools and resources related to the use of machine learning for cyber security
+[Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Sourced database of real-world AI agent security incidents, from prompt injection to agent-framework CVEs
 [Payloads](https://github.com/foospidy/payloads) | Collection of web attack payloads
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | List of useful payloads and bypass for Web Application Security and Pentest/CTF
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) | A free online security knowledge library for pentesters / researchers
