@@ -6,6 +6,17 @@
 
 Your [contributions](contributing.md) are always welcome !
 
+<div align="center">
+<sub>Sponsored by</sub>
+<br>
+<a href="https://secroles.com/jobs?utm_source=github&utm_medium=sponsor&utm_campaign=awesome-hacking">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="secroles-dark.svg">
+<img alt="SecRoles, the job board built for cybersecurity, updated daily. Search remote security engineer, SOC analyst, product security and cloud security roles." src="secroles-light.svg" width="640">
+</picture>
+</a>
+</div>
+
 ## Awesome Repositories
 
 Repository | Description
