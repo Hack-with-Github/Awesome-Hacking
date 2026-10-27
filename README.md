@@ -56,6 +56,7 @@ Repository | Description
 [Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking) | Covers VoIP, WebRTC and VoLTE security related topics
 [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) | Cutting-edge open-source security tools (OST) for red teamers and threat hunters
 [Reinforcement Learning for Cyber Security](https://github.com/Kim-Hammar/awesome-rl-for-cybersecurity) | List of awesome reinforcement learning for security resources
+[Reverse Engineering and Reconstruction](https://github.com/reacher-z/Awesome-REA) | English and Chinese resources, research papers and case studies for reverse engineering and software reconstruction
 [Reversing](https://github.com/HACKE-RC/awesome-reversing) | Collection of resources to learn Reverse Engineering from start
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) | List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) | Collection of multiple types of lists used during security assessments
