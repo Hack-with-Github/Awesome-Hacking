@@ -24,6 +24,7 @@ Repository | Description
 [Android Security](https://github.com/ashishb/android-security-awesome) | Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec) | Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) | List of resources which help during asset discovery phase of a security assessment engagement
+[Automotive Security](https://github.com/hexsecs/awesome-automotive-security) | Curated list of automotive security tools, research and resources
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) | List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks) | Offensive research of CI/CD systems and deployment processes
@@ -35,6 +36,7 @@ Repository | Description
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) | List of awesome DevSecOps tools with the help from community experiments and contributions
 [Drone Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking) | List of Drone hacking tools and resources
 [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
+[Embedded Security](https://github.com/hexsecs/awesome-embedded-security) | Curated list of tools, resources and training for firmware analysis, reverse engineering, hardware hacking and IoT security
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) | List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
 [Hacking](https://github.com/carpedm20/awesome-hacking) | List of awesome Hacking tutorials, tools and resources
 [Honeypots](https://github.com/paralax/awesome-honeypots) | List of honeypot resources
