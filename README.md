@@ -53,6 +53,7 @@ Repository | Description
 [Pentest](https://github.com/enaqx/awesome-pentest) | List of awesome penetration testing resources, tools and other shiny things
 [PHP Security](https://github.com/ziadoz/awesome-php#security) | Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Prompt Injection](https://github.com/Joe-B-Security/awesome-prompt-injection) | Prompt injection vulnerabilities targeting AI and LLM systems
+[React Native Developer's Security Guide](https://github.com/stephanww/rn-dev-security-guide) | A field guide to supply-chain and toolchain risk for React Native developers on macOS and CI/CD Pipelines
 [Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking) | Covers VoIP, WebRTC and VoLTE security related topics
 [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) | Cutting-edge open-source security tools (OST) for red teamers and threat hunters
 [Reinforcement Learning for Cyber Security](https://github.com/Kim-Hammar/awesome-rl-for-cybersecurity) | List of awesome reinforcement learning for security resources
