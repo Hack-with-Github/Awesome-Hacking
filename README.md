@@ -27,6 +27,7 @@ Repository | Description
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) | List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks) | Offensive research of CI/CD systems and deployment processes
+.[crackhead-dropper](https://github.com/daniev-vodka/crackhead-dropper). | Sample malware dropper, with library hashing and in-memory decryption.
 [CTF](https://github.com/apsdehal/awesome-ctf) | List of CTF frameworks, libraries, resources and softwares
 [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university) | Free educational resources that focus on learning cybersecurity by doing
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
