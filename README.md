@@ -97,6 +97,7 @@ Repository | Description
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | List of useful payloads and bypass for Web Application Security and Pentest/CTF
 [Pentest Wiki](https://github.com/nixawk/pentest-wiki) | A free online security knowledge library for pentesters / researchers
 [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists) | Wordlists sorted by probability originally created for password generation and testing
+[pwner](https://github.com/0x45dd/pwner) | Agentic network penetration testing CLI driven by a local LLM, with scope enforcement and operator approval gates
 [Red Team Physical Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) | Curated list of tools for physical security, red teaming, and tactical covert entry
 [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list) | List of Reverse Engineering articles, books, and papers
 [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) | Collection of Radio Frequency Communication Protocol Hacktools
