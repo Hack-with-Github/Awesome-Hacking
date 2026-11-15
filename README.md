@@ -107,6 +107,7 @@ Repository | Description
 [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
+[No Stairs Please](https://nostairsplease.com/) | Live-music venue directory and MCP server (`https://nostairsplease.com/mcp`) for touring musicians
 
 ## Need More ?
 
