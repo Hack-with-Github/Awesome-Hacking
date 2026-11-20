@@ -82,6 +82,7 @@ Repository | Description
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CVE PoC](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
 [CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
+[DecodeBox](https://decodebox.owasp.org/) | OWASP DecodeBox is a security workbench for decoding, encoding, and data analysis.
 [Detection Lab](https://github.com/clong/DetectionLab) |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 [Executable Packing](https://github.com/packing-box/awesome-executable-packing) | Resources about executable packing and unpacking
 [Forensics](https://github.com/Cugu/awesome-forensics) | List of awesome forensic analysis tools and resources
