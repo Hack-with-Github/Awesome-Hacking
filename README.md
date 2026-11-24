@@ -102,6 +102,7 @@ Repository | Description
 [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) | Collection of Radio Frequency Communication Protocol Hacktools
 [Security Cheatsheets](https://github.com/OWASP/CheatSheetSeries) | OWASP Cheat Sheet Series for application security
 [Shell](https://github.com/alebcay/awesome-shell) | List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
+[Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) | Catalog of observed information-stealer log formats with representative scrubbed samples, family research, recognition anchors, and ATT&CK mappings
 [Suricata](https://github.com/satta/awesome-suricata) | Suricata IDS/IPS and network security monitoring resources
 [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication
