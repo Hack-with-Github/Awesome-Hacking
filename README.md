@@ -57,6 +57,7 @@ Repository | Description
 [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) | Cutting-edge open-source security tools (OST) for red teamers and threat hunters
 [Reinforcement Learning for Cyber Security](https://github.com/Kim-Hammar/awesome-rl-for-cybersecurity) | List of awesome reinforcement learning for security resources
 [Reversing](https://github.com/HACKE-RC/awesome-reversing) | Collection of resources to learn Reverse Engineering from start
+[RUA & RUF](https://github.com/joegarbett/rua-tool) | Find domains whose DMARC reporting addresses point at an expired (unregistered) domains.
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) | List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) | Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) | Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
