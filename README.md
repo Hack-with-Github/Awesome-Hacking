@@ -77,6 +77,7 @@ Repository | Description
 [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports
 [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
 [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns
+[Awesome Cybersecurity AI Skills](https://github.com/jaskarov/awesome-cybersecurity-skills) | 10 universal AI agent skills (`SKILL.md`) for pentesting, OSINT, Red Teaming, DevSecOps, AI/LLM security, and Incident Response
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | List of bug bounty write-up that is categorized by the bug nature
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) | Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
