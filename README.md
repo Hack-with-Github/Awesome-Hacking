@@ -60,6 +60,7 @@ Repository | Description
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) | List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) | Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) | Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
+[Security Agent Harnesses](https://github.com/Ed-Marcavage/awesome-security-agent-harnesses) | List of open-source AI pentesting tools, AI SOC agents, and agent harnesses for code audit, vulnerability discovery and fuzzing
 [Social Engineering](https://github.com/giuliacassara/awesome-social-engineering) | List of awesome social engineering resources
 [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) | List of static analysis tools, linters and code quality checkers for various programming languages
 [The Art of Hacking Series](https://github.com/The-Art-of-Hacking/h4cker) | List of resources  includes thousands of cybersecurity-related references and resources
